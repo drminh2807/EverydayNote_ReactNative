@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/minhdv/Projects/EverydayNote_ReactNative/node_modules/react-native/React/Base/RCTPerformanceLogger.h
